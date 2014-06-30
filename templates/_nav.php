@@ -211,6 +211,7 @@ function renderTopNav(PageArray $items, array $options = array(), $level = 0) {
  */
 function renderOrbit($images, $width = 800, $height = 500) {
 
+	if(!count($images)) return '';
 	$out = "<ul data-orbit>";
 
 	foreach($images as $image) {

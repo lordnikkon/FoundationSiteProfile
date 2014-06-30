@@ -1,4 +1,4 @@
-# ProcessWire Site Profile Using Zurb Foundation 4
+# ProcessWire Site Profile Using Zurb Foundation 5.3
 
 - This is a drop-in replacement for the default ProcessWire site profile. 
 
@@ -61,6 +61,6 @@ Or see the demo at: http://processwire.com/foundation/
 
 ------------
 
-Site profile developed by Ryan Cramer
+Site profile developed by Ryan Cramer. Fork by Patrick Lischka
 http://processwire.com 
 
